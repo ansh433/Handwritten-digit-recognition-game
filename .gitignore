@@ -1,0 +1,9 @@
+# Virtual environments
+/virtual
+
+# Data folder
+/data
+
+# Miscellaneous temporary files
+.env
+info.txt

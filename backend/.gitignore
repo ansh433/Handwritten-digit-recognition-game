@@ -1,0 +1,12 @@
+# Python virtual environment
+/venv
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# IDE files (if any)
+.vscode/
+
+# Trained model file
+cnn_digit_classifier.pth

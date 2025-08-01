@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# production build output
+/dist
+
+# npm-specific files
+package-lock.json
+npm-debug.log*
+
+# vite-specific cache
+.vite/
