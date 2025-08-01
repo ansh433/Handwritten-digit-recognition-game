@@ -28,7 +28,7 @@ Due to file size, the pre-trained model is not included in this repository.
 
 **To run the backend, you must first download the model file:**
 
-1.  Download `model.h5` from [**YOUR_MODEL_DOWNLOAD_LINK_HERE**].
+1.  Download `model.h5` from https://github.com/ansh433/Handwritten-digit-recognition-game/releases/download/v1.0.0/cnn_digit_classifier.pth
 2.  Place the `model.h5` file in your `backend/` directory.
 
 ## Setup and Installation
